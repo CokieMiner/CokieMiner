@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Pedro · `CokieMiner`
 
-<!--
-**CokieMiner/CokieMiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student @ FCUP who builds the tools he wishes existed
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+I write scientific software in Rust because Python was too slow and I was too stubborn.
+My main project is **SymbAnaFis** — a symbolic math engine with a register-VM evaluator, SIMD batch evaluation, symbolic differentiation, and Python bindings via PyO3.
+It started as a curve-fitting helper and turned into a full CAS. These things happen.
+
+I believe the correct C runtime is musl and the correct compiler is Clang/LLVM. The community has not agreed with me. I'm working through it.
+
+On the side I flash Linux distros (I use Arch btw) more often than I should, and occasionally lose weeks to Minecraft factory automation (Greg it all).
+
+---
+
+### Projects
+
+| | Project | What it is |
+|---|---|---|
+| 🦀 | [**SymbAnaFis**](https://github.com/CokieMiner/SymbAnaFis) | Symbolic differentiation, simplification & high-performance evaluation engine for Rust + Python |
+| 🖥️ | [**Anafis-Tauri**](https://github.com/CokieMiner/Anafis-Tauri) | Desktop Tauri app for uncertainty-aware statistical analysis with custom backends |
+| 🐍 | [**AnaFis**](https://github.com/CokieMiner/AnaFis) | Simple repackage of Python tools for curve fitting and GUM-compliant uncertainty propagation with a GUI |
+| 🏆 | [**SciTech**](https://github.com/CokieMiner/SciTech) | Scitech 2025 winner |
+
+---
+
+### Stack & interests
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+Things I find interesting: symbolic computation · SIMD · JIT · exact real arithmetic · systems engineering · statistical analysis (Bayesian btw) · compilers
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CokieMiner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CokieMiner&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+
+---
+
+<sub>he/him · Porto · currently distro-hopping and pretending it's productive instead of building or studying for my degree</sub>
