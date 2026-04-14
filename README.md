@@ -39,8 +39,8 @@ Things I find interesting: symbolic computation · SIMD · JIT · exact real ari
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CokieMiner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CokieMiner&layout=compact&theme=tokyonight&hide_border=true&langs_count=5)
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
