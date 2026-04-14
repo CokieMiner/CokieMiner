@@ -40,6 +40,7 @@ Things I find interesting: symbolic computation · SIMD · JIT · exact real ari
 ### Stats
 
 ![GitHub Stats](./profile/stats.svg)
+
 ![Top Langs](./profile/top-langs.svg)
 
 ---
