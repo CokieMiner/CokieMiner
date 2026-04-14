@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
       
@@ -18,11 +20,16 @@ jobs:
         with:
           card: stats
           options: username=CokieMiner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
-          token: ${{ secrets.PAT_FOR_STATS }} # Uses the token you just created
+          token: ${{ secrets.PAT_FOR_STATS }}
           
       - name: Generate Top Langs Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=CokieMiner&layout=compact&theme=tokyonight&hide_border=true&langs_count=5
-          token: ${{ secrets.GITHUB_TOKEN }} # Default token is fine for top langs
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Stats Cards"
