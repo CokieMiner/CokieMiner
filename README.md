@@ -10,8 +10,6 @@ I write scientific software in Rust because Python was too slow and I was too st
 My main project is **SymbAnaFis** — a symbolic math engine with a register-VM evaluator, SIMD batch evaluation, symbolic differentiation, and Python bindings via PyO3.
 It started as a curve-fitting helper and turned into a full CAS. These things happen.
 
-I believe the correct C runtime is musl and the correct compiler is Clang/LLVM. The community has not agreed with me. I'm working through it.
-
 On the side I flash Linux distros (I use Arch btw) more often than I should, and occasionally lose weeks to Minecraft factory automation (Greg it all).
 
 ---
