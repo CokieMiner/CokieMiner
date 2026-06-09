@@ -33,6 +33,7 @@ On the side I flash Linux distros (I use Arch btw) more often than I should, and
 
 Things I find interesting: symbolic computation · SIMD · JIT · exact real arithmetic · systems engineering · statistical analysis (Bayesian btw) · compilers
 
+Where are my Infs Posit, that is not a NaN it should be a Inf, need to distinguish the two, they are not the same.
 ---
 
 ### Stats
