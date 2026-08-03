@@ -36,10 +36,6 @@ Things I find interesting: symbolic computation · SIMD · JIT · exact real ari
 Where are my Infs Posit, that is not a NaN it should be a Inf, need to distinguish the two, they are not the same.
 ---
 
-### Stats
-
-![GitHub Stats](./profile/stats.svg)
-
 ![Top Langs](./profile/top-langs.svg)
 
 ---
