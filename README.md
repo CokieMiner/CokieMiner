@@ -31,7 +31,7 @@ On the side I flash Linux distros (I use Arch btw) more often than I should, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-Things I find interesting: symbolic computation · SIMD · JIT · exact real arithmetic · systems engineering · statistical analysis (Bayesian btw) · compilers
+Things I find interesting: symbolic computation · SIMD · JIT · exact real arithmetic · systems engineering · statistical analysis · compilers
 
 Where are my Infs Posit, that is not a NaN it should be a Inf, need to distinguish the two, they are not the same.
 ---
